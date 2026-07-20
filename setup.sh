@@ -169,6 +169,9 @@ git config --global delta.navigate true
 git config --global delta.line-numbers true
 git config --global delta.side-by-side false
 
+git config --global commit.gpgsign true
+git config --global tag.gpgsign true
+
 # ---------- work vs personal ----------
 read -r -p "Is this a work computer? [y/N] " is_work
 case "$is_work" in
