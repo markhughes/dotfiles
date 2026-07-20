@@ -1,0 +1,10 @@
+# VS Code extensions to install (one per line).
+enkia.tokyo-night
+eamodio.gitlens
+esbenp.prettier-vscode
+dbaeumer.vscode-eslint
+stylelint.vscode-stylelint
+ms-vscode-remote.remote-containers
+rust-lang.rust-analyzer
+golang.Go
+timonwong.shellcheck

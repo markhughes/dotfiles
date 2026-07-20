@@ -1,0 +1,15 @@
+{
+  "claudeCode.preferredLocation": "sidebar",
+  "workbench.colorTheme": "Tokyo Night",
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "chat.agent.enabled": false,
+  "chat.disableAIFeatures": true,
+  "claudeCode.hideOnboarding": true,
+  "telemetry.telemetryLevel": "off",
+  "telemetry.feedback.enabled": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "git.openRepositoryInParentFolders": "always",
+}
