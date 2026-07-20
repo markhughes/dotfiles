@@ -14,3 +14,4 @@ Untested bootstrap:
 curl -fsSL https://raw.githubusercontent.com/markhughes/dotfiles/main/init.sh | sh
 ```
 
+Clone if possible, and run `sh setup.sh`
