@@ -28,6 +28,7 @@ brew "git-delta"
 brew "shellcheck"
 brew "pyenv"
 brew "cmake"
+brew "uv"
 
 # ---------- apps (casks) ----------
 cask "visual-studio-code"
