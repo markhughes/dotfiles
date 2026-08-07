@@ -36,7 +36,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
 
 # GO
-export GOPATH="$HOME/code/go"
+export GOPATH="$HOME/go"
 export PATH="$PATH:$GOPATH/bin"
 
 # rust cargo
