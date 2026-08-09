@@ -9,3 +9,4 @@ rust-lang.rust-analyzer
 golang.Go
 timonwong.shellcheck
 EditorConfig.EditorConfig
+tamasfe.even-better-toml
