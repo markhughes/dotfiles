@@ -18,4 +18,4 @@
 - Shell: zsh. Editor: neovim for terminal, VS Code.
 - Dotfiles and installed applications are managed with GNU stow and a setup.sh in ~/dotfiles
 - gh command line available for working with GitHub
-- git repos live in ~/src, seperate by <host>/<org or user>/<repo name> examples: ~/src/github.com/markhughes/dotfiles
+- git repos live in ~/src, seperate by <host>/<org or user>/<repo name> examples: ~/src/github.com/markhughes/dotfiles - prefer worktrees for chunks of work
