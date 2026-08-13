@@ -36,7 +36,7 @@ cask "ghostty"
 cask "rectangle"
 cask "docker-desktop"
 cask "figma"
-cask "arc"
+cask "thebrowsercompany-dia"
 cask "raycast"
 cask "claude"
 
