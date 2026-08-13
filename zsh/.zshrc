@@ -51,6 +51,11 @@ source <(fzf --zsh)
 # Starship
 eval "$(starship init zsh)"
 
+# Custom zsh functions
+for f in "$HOME"/.zsh/*.zsh(N); do
+  source "$f"
+done
+
 
 # Local machine-only config (not tracked in dotfiles).
 # Put per-machine settings, secrets, and overrides in ~/.zshrc.local
