@@ -84,3 +84,4 @@ Notes:
 - Create a todo list before starting.
 - When citing a CLAUDE.md rule, quote the exact rule text and give the file path.
 - The diff to review is always `git diff --cached` (the staged changes), never the working-tree diff. Unstaged content may be read for context but is not the review target.
+- Keep short and concise, 80% of the most critical info in 20% of the words. Use /humanizer and /crisp skills.
