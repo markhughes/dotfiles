@@ -19,3 +19,7 @@
 - Dotfiles and installed applications are managed with GNU stow and a setup.sh in ~/dotfiles
 - gh command line available for working with GitHub
 - git repos live in ~/src, seperate by <host>/<org or user>/<repo name> examples: ~/src/github.com/markhughes/dotfiles - prefer worktrees for chunks of work
+
+# graphify
+- **graphify** (`~/.claude/skills/graphify/SKILL.md`) - any input to knowledge graph. Trigger: `/graphify`
+When the user types `/graphify`, use the installed graphify skill or instructions before doing anything else.
