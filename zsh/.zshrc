@@ -3,7 +3,7 @@ export ZSH="$HOME/.oh-my-zsh"
 # leave as blank for starship
 ZSH_THEME=""
 
-ENABLE_CORRECTION="true"
+ENABLE_CORRECTION="false"
 DISABLE_MAGIC_FUNCTIONS="true"
 
 # plugins

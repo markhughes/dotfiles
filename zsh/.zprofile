@@ -1,3 +1,7 @@
+# The following lines were added by Docker Desktop to add commands to your PATH.
+export PATH="$PATH:/Users/mark.hughes/.docker/bin"
+# End of Docker Desktop section.
+
 # Login-shell config. Sourced once per login shell, before .zshrc.
 # Keep interactive settings in .zshrc; put PATH/env setup here.
 
